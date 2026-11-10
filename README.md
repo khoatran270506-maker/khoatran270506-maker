@@ -18,7 +18,7 @@ I'm a student passionate about Data Science, Artificial Intelligence, and Deep L
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Programming & Data Analysis**
 - Python
