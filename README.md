@@ -38,6 +38,22 @@ I'm a student passionate about Data Science, Artificial Intelligence, and Deep L
 - Image Classification
 - Transfer Learning
 
+### Programming & Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Machine Learning & Deep Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Development Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ##  Featured Projects
@@ -79,7 +95,25 @@ I'm a student passionate about Data Science, Artificial Intelligence, and Deep L
 - GitHub: [@khoatran270506-maker](https://github.com/khoatran270506-maker)
 - LinkedIn: [Add your LinkedIn URL]
 - Email: [khoa2006hehe@gmail.com]
-
 ---
 
-⭐ *Always learning, always building, and always exploring new possibilities in Data & AI.*
+##  GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=khoatran270506-maker&theme=tokyonight"
+    width="70%"
+    alt="GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/langs?username=khoatran270506-maker&layout=compact&max_langs=8"
+    width="70%"
+    alt="Top Languages"
+  />
+</p>
+---
+
+ *Always learning, always building, and always exploring new possibilities in Data & AI.*
