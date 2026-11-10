@@ -57,28 +57,54 @@ I'm a student passionate about Data Science, Artificial Intelligence, and Deep L
 ---
 
 ##  Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 1. Eggplant Leaf Disease Classification
-**Domain:** Deep Learning | Computer Vision
+###  Eggplant Leaf Disease Classification
 
-- Developing a deep learning approach for eggplant leaf disease classification.
-- Exploring CNN architectures and EfficientNet.
-- Studying model fine-tuning and performance evaluation.
+**Deep Learning | Computer Vision**
 
-### 2. Bee Pollen Classification
-**Domain:** Deep Learning | Image Classification
+- CNN architectures
+- EfficientNet
+- Image classification
+- Model evaluation
 
-- Building a CNN model from scratch.
-- Working with dataset preprocessing and verification.
-- Evaluating model performance using training, validation, and test sets.
+[View Project](https://github.com/khoatran270506-maker/eggplant-leaf-disease)
 
-### 3. Hanoi Air Quality Prediction
-**Domain:** Data Science | Machine Learning
+</td>
+<td width="50%" valign="top">
 
-- Exploring air quality prediction using environmental and traffic-related indicators.
-- Working with time-series data and lag features.
-- Exploring XGBoost for short-term prediction.
+###  Bee Pollen Classification
 
+**Deep Learning | CNN**
+
+- CNN from scratch
+- Dataset preprocessing
+- Image classification
+- Model evaluation
+
+[View Project](https://github.com/khoatran270506-maker/bee-pollen-classification)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+###  Hanoi Air Quality Prediction
+
+**Data Science | Machine Learning**
+
+- Environmental data analysis
+- Traffic indicators
+- Time-series features
+- XGBoost forecasting
+
+[View Project](https://github.com/khoatran270506-maker/hanoi-air-quality)
+
+</td>
+</tr>
+</table>
 ---
 
 ##  Current Learning Goals
